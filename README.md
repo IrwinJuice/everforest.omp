@@ -1,19 +1,31 @@
 <h3 align="center">
-	<a href="https://github.com/sainnhe/everforest">Everforest</a> for <a href="https://ohmyposh.dev/">Oh My Posh</a>
+	An <a href="https://github.com/sainnhe/everforest">Everforest</a>-inspired  <a href="https://ohmyposh.dev/">Oh My Posh</a> theme set
 </h3>
-
+<!--
 <p align="center">
 	<img src="https://raw.githubusercontent.com/IrwinJuice/everforest.omp/refs/heads/main/assets/everforest.png" alt="Everforest"/>
+</p>-->
+
+<!--#### Dark-->
+
+<p align="center">
+	<img src="https://raw.githubusercontent.com/IrwinJuice/everforest.omp/refs/heads/main/assets/everforest_dark.png" alt="Everforest_dark"/>
 </p>
 
-## Overview
-
-An Everforest-inspired Oh My Posh theme set with matching dark and light variants.
+<!--#### Light-->
+<p align="center">
+	<img src="https://raw.githubusercontent.com/IrwinJuice/everforest.omp/refs/heads/main/assets/everforest_light.png" alt="Everforest_dark"/>
+</p>
 
 ## Files
 
 - `everforest_dark.omp.json` - dark theme
 - `everforest_light.omp.json` - light theme
+
+## Background color
+
+- #1E2326  - dark theme
+- #FFFBEF - light theme
 
 ## Usage
 
